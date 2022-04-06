@@ -5,7 +5,7 @@ This license allows anyone to make stuff for [The Gloaming Diaries](https://timo
 ## 1. Content
 
 1. If you adhere to these terms you are allowed to publish free or commercial products in connection to The Gloaming Diaries without express permission from Timor Jack Press.
-2. Art and any text from any The Gloaming Diaries materials (including both the base game and any supplemental materials) cannot be reused or translated without our express permission.
+2. Original art and any text from any The Gloaming Diaries materials (including both the base game and any supplemental materials) cannot be reused or translated without our express permission.
 3. You can use the names and terms of the world within The Gloaming Diaries setting, including but not limited to The Vale of Nightmares, The City of Tithe, Somnus the Silver City, etc.
 4. The mechanics and game rules of The Gloaming Diaries may be reused and referenced freely. 
 
