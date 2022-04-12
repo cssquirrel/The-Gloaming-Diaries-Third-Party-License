@@ -15,9 +15,9 @@ This license allows anyone to make stuff for [The Gloaming Diaries](https://timo
 2. You are allowed and encouraged (but not required) to use The Gloaming Diaries compatibility logo provided below.
 3. You are not allowed to give the impression that your product is an official Timor Jack Press product or that we sponsor you in any way without our express permission.
 
-![TGD Compatibility Logo](assets/tgd-compatibility-logo-white.png?raw=true "TGD Compatibility Logo")
+<img src="https://github.com/cssquirrel/The-Gloaming-Diaries-Third-Party-License/raw/main/assets/tgd-compatibility-logo-white.png?raw=true" width="255" style="background:black">
 
-![TGD Compatibility Logo](assets/tgd-compatibility-logo-black.png?raw=true "TGD Compatibility Logo")
+<img src="https://github.com/cssquirrel/The-Gloaming-Diaries-Third-Party-License/raw/main/assets/tgd-compatibility-logo-black.png?raw=true" width="255" style="background:white">
 
 
 
