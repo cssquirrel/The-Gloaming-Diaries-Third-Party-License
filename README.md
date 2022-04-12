@@ -12,8 +12,14 @@ This license allows anyone to make stuff for [The Gloaming Diaries](https://timo
 ## 2. Branding
 
 1. Your product cannot use the Timor Jack Press logo, the Gloaming Diaries logo, or any other logos associated with The Gloaming Diaries without our express permission.
-2. You are allowed and encouraged (but not required) to use The Gloaming Diaries compatibility logo provided below (**note:** the logo isn't yet on this page, coming very soon).
+2. You are allowed and encouraged (but not required) to use The Gloaming Diaries compatibility logo provided below.
 3. You are not allowed to give the impression that your product is an official Timor Jack Press product or that we sponsor you in any way without our express permission.
+
+![TGD Compatibility Logo](assets/tgd-compatibility-logo-white.png?raw=true "TGD Compatibility Logo")
+
+![TGD Compatibility Logo](assets/tgd-compatibility-logo-black.png?raw=true "TGD Compatibility Logo")
+
+
 
 **TODO: Insert Logo here**
 
