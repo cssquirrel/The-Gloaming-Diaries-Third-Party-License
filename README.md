@@ -1,4 +1,4 @@
-# The Gloaming Diaries 3rd Party License
+# The Gloaming Diaries Third Party License
 
 This license allows anyone to make stuff for [The Gloaming Diaries](https://timorjack.itch.io/gloaming-diaries) and either publish it for free or sell it without [Timor Jack Press](https://timorjack.itch.io/) taking a cut. Anything goes as long as you follow these basic rules.
 
