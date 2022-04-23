@@ -20,9 +20,6 @@ This license allows anyone to make stuff for [The Gloaming Diaries](https://timo
 <img src="https://github.com/cssquirrel/The-Gloaming-Diaries-Third-Party-License/raw/main/assets/tgd-compatibility-logo-black.png?raw=true" width="255" style="background:white">
 
 
-
-**TODO: Insert Logo here**
-
 ## 3. Legal
 
 1. Timor Jack Press is not responsible for any legal claims against your product.
